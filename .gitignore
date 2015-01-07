@@ -1,0 +1,30 @@
+#Default ignores
+[Oo]bj/
+[Bb]in/
+*.suo
+*.user
+TestResults
+*.vspscc
+*.vssscc
+*.dotCover
+*.ncrunchsolution
+*.crunchsolution*
+*_Resharper*
+*_TeamCity*
+*.vsmdi
+*.ncrunchproject
+*.tmpl.*
+*.vsmdi
+
+!Views/*.config
+[Ww]eb.*.config
+[Ww]eb.config
+	
+
+*.DS_Store
+
+#Ignore packages
+[Pp]ackages/
+
+#Beyond Compare Ignores
+*.orig
